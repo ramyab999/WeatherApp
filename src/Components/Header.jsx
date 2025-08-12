@@ -1,11 +1,11 @@
 import React from "react";
-import wsaLogo from "../assets/images/wsa-logo.svg";
 
 const Header = () => {
   return (
-    <div className="header">
-      <img src={wsaLogo} alt="wsa logo" width={183} height={63} />
-      <p className="header-text">WEATHER</p>
+    <div className="header" style={{ textAlign: "center", padding: "20px 0" }}>
+      <p className="header-text" style={{ margin: 0, fontWeight: "bold", fontSize: "24px" }}>
+        WEATHER
+      </p>
     </div>
   );
 };
