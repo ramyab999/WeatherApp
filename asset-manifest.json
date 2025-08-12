@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.9f2f032d.css",
+    "main.js": "/WeatherApp/static/js/main.2ea9f330.js",
+    "static/media/background.png": "/WeatherApp/static/media/background.bb020d2cc198e1618a14.png",
+    "static/media/cloudy.svg": "/WeatherApp/static/media/cloudy.3c90836b282889e390934250570ed690.svg",
+    "static/media/rain.svg": "/WeatherApp/static/media/rain.a971d642bd961218c11d566b63676378.svg",
+    "static/media/thunder.svg": "/WeatherApp/static/media/thunder.285e66b9c2e6f8ec1ce31d971be47f5f.svg",
+    "static/media/water.svg": "/WeatherApp/static/media/water.4ca390e43343cced9a8dda2f9ef32bfa.svg",
+    "static/media/windy.svg": "/WeatherApp/static/media/windy.69feac95ab39bbcfb3d17482a07b156e.svg",
+    "static/media/wsa-logo.svg": "/WeatherApp/static/media/wsa-logo.10fa69d6cc2709b2e1bfbf2f71cab34a.svg",
+    "static/media/sun.svg": "/WeatherApp/static/media/sun.89c26c7f971581c7d521c9f0972ae30e.svg",
+    "static/media/cloud.svg": "/WeatherApp/static/media/cloud.4506a3e0fd4a3cda4471ad388859f695.svg",
+    "static/media/temperature-mini.svg": "/WeatherApp/static/media/temperature-mini.88196ad6c83fa4cfcb39b79d48cc3286.svg",
+    "static/media/temperature.svg": "/WeatherApp/static/media/temperature.a177342904a0b2c916f35152d9f77b0b.svg",
+    "static/media/eye.svg": "/WeatherApp/static/media/eye.889c6316cbef9f56564b3d40b79500d8.svg",
+    "static/media/search.svg": "/WeatherApp/static/media/search.de6419d789c3053e4342e637338f28f2.svg",
+    "index.html": "/WeatherApp/index.html",
+    "static/media/location.svg": "/WeatherApp/static/media/location.cf95a6f0c6cfb4451efbd242a75ca895.svg"
+  },
+  "entrypoints": [
+    "static/css/main.9f2f032d.css",
+    "static/js/main.2ea9f330.js"
+  ]
+}
